@@ -1,0 +1,56 @@
+# For documentation on this file, see:
+# https://github.com/riggraz/no-style-please#customize-the-menu
+
+entries:
+  - title: info
+    entries:
+      - title: prev. Software Engineer; currently. DevOps Engineer
+      - title: a passionate infrastructure engineer with a SWE background
+      - title: github
+        url: https://github.com/linuxs
+      - title: linkedin
+        url: https://linkedin.com/austinsweat
+      - title: resume
+        url: resume.html
+
+  - title: posts about Clouds (AWS, GCP, Azure)
+    post_list:
+      category: aws_cloud
+      show_more: true
+      show_more_text: See more posts...
+      show_more_url: aws-cloud-archive.html
+
+  - title: posts about Docker
+    post_list:
+      category: docker
+      show_more: true
+      show_more_text: See more posts...
+      show_more_url: docker-archive.html
+
+  - title: posts about Terraform
+    post_list:
+      category: terraform
+      show_more: true
+      show_more_text: See more posts...
+      show_more_url: terraform-archive.html
+
+  - title: all posts
+    post_list:
+      limit: 5
+      show_more: true
+      show_more_text: See archive...
+      show_more_url: archive.html
+
+  #- title: rss
+  #  url: feed.xml
+  
+  #- title: another list
+  #  entries:
+  #    - title: with subitems
+  #      entries:
+  #        - title: with subsubitems
+  #        - title: example page
+  #          url: about
+  #- title: PRO TIP
+  #  entries:
+  #    - title: to edit this menu, edit _data/menu.yml file
