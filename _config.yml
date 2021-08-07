@@ -1,4 +1,4 @@
-title: Austin's Thoughts # name of the site
+title: "Austin's Thoughts :thought_balloon:" # name of the site
 author: Austin Sweat # name of site's author
 email: me@austinsweat.com # email of site's author
 url: https://austinsweat.com # root address of the site
@@ -14,7 +14,7 @@ goat_counter: "austinsweat" # put your GoatCounter name if you want to use GoatC
 theme: no-style-please # if you are using GitHub Pages, change it to remote_theme: riggraz/no-style-please
 
 theme_config:
-  appearance: "light" # can be "light", "dark" or "auto"
+  appearance: "dark" # can be "light", "dark" or "auto"
   back_home_text: ".." # customize text for homepage link in post layout
   date_format: "%m/%d/%Y" # customize how date is formatted
   show_description: true # show blog description in home page

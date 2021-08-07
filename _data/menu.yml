@@ -13,7 +13,7 @@ entries:
       - title: resume
         url: resume.html
 
-  - title: posts about Clouds (AWS, GCP, Azure)
+  - title: "posts about Clouds (AWS, GCP, Azure) :cloud:"
     post_list:
       category: aws_cloud
       show_more: true
@@ -34,7 +34,14 @@ entries:
       show_more_text: See more posts...
       show_more_url: terraform-archive.html
 
-  - title: all posts
+  # - title: posts about vacation  
+  #   post_list:
+  #     category: terraform
+  #     show_more: true
+  #     show_more_text: See more posts...
+  #     show_more_url: terraform-archive.html
+
+  - title: "all posts :book:"
     post_list:
       limit: 5
       show_more: true
